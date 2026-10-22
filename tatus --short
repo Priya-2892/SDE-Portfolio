@@ -1,0 +1,42 @@
+ .gitignore                            |    5 [31m-[m
+ README.md                             |   35 [31m-[m
+ jsconfig.json                         |    1 [31m-[m
+ next.config.mjs                       |    6 [31m-[m
+ package-lock.json                     | 1602 [31m---------------------------------[m
+ package.json                          |   26 [31m-[m
+ postcss.config.js                     |    1 [31m-[m
+ public/Priya_Kushwaha_SDE1_Resume.pdf |  Bin [31m96948[m -> [32m0[m bytes
+ public/images/alpex-exim.webp         |  Bin [31m65336[m -> [32m0[m bytes
+ public/images/alpex-solar.webp        |  Bin [31m50012[m -> [32m0[m bytes
+ public/images/break-away.webp         |  Bin [31m46484[m -> [32m0[m bytes
+ public/images/cimbs.webp              |  Bin [31m37436[m -> [32m0[m bytes
+ public/images/flarehomes.webp         |  Bin [31m48150[m -> [32m0[m bytes
+ public/images/hdbfc.webp              |  Bin [31m27648[m -> [32m0[m bytes
+ public/images/kn.webp                 |  Bin [31m46238[m -> [32m0[m bytes
+ public/images/legal.webp              |  Bin [31m21324[m -> [32m0[m bytes
+ public/images/pbd.webp                |  Bin [31m32580[m -> [32m0[m bytes
+ public/images/priya.jpg               |  Bin [31m162879[m -> [32m0[m bytes
+ public/images/space-craft.webp        |  Bin [31m57850[m -> [32m0[m bytes
+ public/images/unhotel.webp            |  Bin [31m55426[m -> [32m0[m bytes
+ src/app/globals.css                   |   60 [31m--[m
+ src/app/icon.svg                      |    1 [31m-[m
+ src/app/layout.jsx                    |   57 [31m--[m
+ src/app/opengraph-image.jsx           |   18 [31m-[m
+ src/app/page.jsx                      |   27 [31m-[m
+ src/app/robots.js                     |    4 [31m-[m
+ src/app/sitemap.js                    |    4 [31m-[m
+ src/components/About.jsx              |   40 [31m-[m
+ src/components/ApiConsole.jsx         |   97 [31m--[m
+ src/components/Architecture.jsx       |   41 [31m-[m
+ src/components/Contact.jsx            |  128 [31m---[m
+ src/components/Experience.jsx         |   35 [31m-[m
+ src/components/Footer.jsx             |   12 [31m-[m
+ src/components/Hero.jsx               |   52 [31m--[m
+ src/components/Nav.jsx                |   89 [31m--[m
+ src/components/Projects.jsx           |   92 [31m--[m
+ src/components/Section.jsx            |   15 [31m-[m
+ src/components/Ship.jsx               |   26 [31m-[m
+ src/components/Skills.jsx             |   29 [31m-[m
+ src/data/profile.js                   |  210 [31m-----[m
+ tailwind.config.js                    |   24 [31m-[m
+ 41 files changed, 2737 deletions(-)
